@@ -1,0 +1,11 @@
+{
+  "emb_size": 320,
+  "hidden_size": 896,
+  "num_layers": 2,
+  "dropout": 0.2875532317584548,
+  "lr": 0.003250184541260231,
+  "weight_decay": 1.2686317034630189e-05,
+  "clip_norm": 0.9580209001297012,
+  "scheduler_step_size": 14,
+  "scheduler_gamma": 0.334483521648386
+}
