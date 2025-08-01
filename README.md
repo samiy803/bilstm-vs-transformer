@@ -8,7 +8,7 @@ Transformer-based neural machine translation (NMT) models have achieved state-of
 
 ## Key Findings
 
-- **Crossover Point**: Bi-LSTMs outperform Transformers for moderately-small dayasets
+- **Crossover Point**: Bi-LSTMs outperform Transformers for moderately-small datasets
 - **Efficiency**: Bi-LSTMs achieve 244.27 BLEU/GPU-hour at 50k pairs vs. Transformer's 14.95
 - **Scaling**: Transformers regain superiority at 200k pairs with 29.44 BLEU vs. 27.32 for Bi-LSTM
 - **Practical Impact**: Results suggest Bi-LSTMs may be optimal for truly low-resource languages
